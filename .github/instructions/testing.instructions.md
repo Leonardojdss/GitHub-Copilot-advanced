@@ -1,6 +1,4 @@
----
-applyTo: '**/tests/**'
----
+∫
 
 # Estratégias de Teste para FastAPI
 

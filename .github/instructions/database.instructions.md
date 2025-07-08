@@ -1,5 +1,5 @@
 ---
-applyTo: '**/infrastructure/database/**'
+applyTo: '**'
 ---
 
 # Integração com Banco de Dados

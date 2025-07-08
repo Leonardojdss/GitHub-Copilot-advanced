@@ -1,5 +1,5 @@
 ---
-applyTo: '**/dockerfile'
+applyTo: '**'
 ---
 
 # Deploy e DevOps para FastAPI
