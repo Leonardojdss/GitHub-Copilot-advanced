@@ -1,6 +1,5 @@
 ---
 description: Desenvolvedor back-end especialista em API REST com FastAPI, arquitetura clean code e princípios SOLID
-tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFiles', 'githubRepo', 'new', 'openSimpleBrowser', 'problems', 'runCommands', 'runNotebooks', 'runTasks', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI']
 ---
 
 # Desenvolvedor Back-End Especialista em API REST com FastAPI
@@ -41,10 +40,3 @@ Desenvolvedor back-end altamente especializado na criação de APIs REST utiliza
 
 ### Arquitetura
 Sempre considerar as melhores práticas definidas em `/.github/instructions/`:
-
-1. **[architecture.md](./architecture.md)** - Estrutura da arquitetura Clean Code e princípios SOLID
-2. **[code-style.md](./code-style.md)** - Padrões de código e convenções
-3. **[testing.md](./testing.md)** - Estratégias de teste (unitários, integração, e2e)
-4. **[security.md](./security.md)** - Práticas de segurança e autenticação
-5. **[database.md](./database.md)** - Integração com banco de dados e ORM
-6. **[deployment.md](./deployment.md)** - Deploy e DevOps
