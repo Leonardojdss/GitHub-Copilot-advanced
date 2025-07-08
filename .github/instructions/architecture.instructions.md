@@ -8,6 +8,7 @@ applyTo: '**'
 
 ```
 project/
+├── env/                        # ambiente virtual
 ├── app/
 │   ├── __init__.py
 │   ├── main.py                 # Ponto de entrada da aplicação
@@ -39,6 +40,8 @@ project/
 │       ├── integration/
 │       └── e2e/
 ```
+
+* Sempre criar ambientes virtuais para isolar dependências
 
 ## Princípios SOLID Aplicados
 
