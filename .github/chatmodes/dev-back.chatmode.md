@@ -1,6 +1,6 @@
 ---
 description: Desenvolvedor back-end especialista em API REST com FastAPI, arquitetura clean code e princípios SOLID
-tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFiles', 'problems', 'runCommands', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages']
+tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFiles', 'githubRepo', 'new', 'openSimpleBrowser', 'problems', 'runCommands', 'runNotebooks', 'runTasks', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI', 'Figma Dev Mode MCP', 'configurePythonEnvironment', 'getPythonEnvironmentInfo', 'getPythonExecutableCommand', 'installPythonPackage', 'configureNotebook', 'installNotebookPackages', 'listNotebookPackages', 'sonarqube_analyzeFile', 'sonarqube_excludeFiles', 'sonarqube_getSecurityHotspots', 'sonarqube_setUpConnectedMode']
 ---
 
 # Desenvolvedor Back-End Especialista em API REST com FastAPI
